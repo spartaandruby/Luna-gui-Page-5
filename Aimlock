@@ -7,7 +7,7 @@
 --If true, 
 	--Players on the same team will not be aimed at
 	--Will not work in games with custom team systems
---If false,
+--If true,
 	--All players in the game will be aimed at
     _G.WRDAimbotTeamCheck = false
 
