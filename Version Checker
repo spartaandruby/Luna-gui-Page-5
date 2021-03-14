@@ -1,6 +1,1 @@
-	if script.Parent.EOEOOEOE.Text == "Current Version: 7" then
-		print("has right version!")
-		script.Parent.EOEOOEOE.Text = "You have the right version!" else
-		script.Parent.EOEOOEOE.Text = "You don't have the recent version. DM scoopper#1028 or go to https://github.com/spartaandruby"
-		print("player doesn't have the recent version!")
-	end
+..
